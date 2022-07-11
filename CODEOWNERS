@@ -1,0 +1,6 @@
+# c.f. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+*           @philipp-spiess @nicolasdular
+
+/frontend   @philipp-spiess
+/backend    @nicolasdular
